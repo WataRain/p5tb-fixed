@@ -1,0 +1,13 @@
+ 388 mp_main.c
+ 622 mp_definitions.c
+1430 mp_events.c (sir's)
+ 490 mp_events2.c
+ 693 mp_functions.c
+ 132 mp_saving.c
+1204 mp_ui.c
+ 615 mp_game_actions.c
+ 260 mp_handlers.c
+------------------------
+5834
+4404 without sir's mp_events.c
+

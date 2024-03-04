@@ -1,0 +1,22 @@
+{
+    "files.associations": {
+        "stdbool.h": "c",
+        "stdlib.h": "c",
+        "math.h": "c",
+        "conio.h": "c",
+        "stdio.h": "c",
+        "string.h": "c",
+        "cstring": "c",
+        "xlocale": "c",
+        "xstring": "c",
+        "time.h": "c",
+        "stdint.h": "c"
+    },
+    "C_Cpp.errorSquiggles": "disabled",
+    "files.exclude": {
+        "**/*.rpyc": true,
+        "**/*.rpa": true,
+        "**/*.rpymc": true,
+        "**/cache/": true
+    }
+}

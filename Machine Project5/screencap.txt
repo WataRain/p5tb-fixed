@@ -1,0 +1,37 @@
+===================================================================================================================
+|                                   +----------------------------------+  |Your move?                             |
+|  9/18 Wednesday          /-------->         Shujin   Academy         |  |  Conf: Ryuji                          |
+|  Afternoon               |-------->              [P]                 |  |  Train @ Shujin Academy Gym           |
+|                          ||       | +---+   +-------+   +----------+ |  |  Tend to plants                       |
+|  43 days before          ||       | |Gym|   |Library|   |Class Room| |  |  Study @ Library                      |
+|  the incident            ||       | |   |   |       |   |          | |  |  Clean the blackboard                 |
+|                          ||       | +---+   +-------+   +----------+ |  |                                       |
+|        5176 Yen          ||       +----------+  +------+  +----------+  |                                       |
+|                          ||                  |  |Garden|  |             |                                       |
+|  +------------+          ||                  |  |      |  |             |                                       |
+|  |LeBlanc Cafe|          ||                  |  +------+  |             |Check your items                       |
+|  |    [ ]     |          ||                  |            |             |                                       |
+|  +-----^------+          ||                  +------------+             |                                       |
+|        |                 ||                                             |                                       |
+|   +----v-----+     +-----vv------+     +-------+     +---------------+  |                                       |
+|   |Back Alley<----->Train Station<----->Shibuya<----->Big Bang Burger|  |                                       |
+|   |   [ ]    <----->    [C]      <----->  [ ]  |     |     [ ]       |  |                                       |
+|   +----^-----+     +-----^^------+     +---^---+     +---------------+  |                                       |
+|        |                 ||                |                            |                                       |
+|     +--v---+     +-------vv-------+     +--v---+  Legend                |Notebook                               |
+|     |Clinic|     |Underground Mall|     |Arcade|    P Player location   |  Save File                            |
+|     | [ ]  |     |      [!]       |     | [ ]  |    C Confidant         |  Load File                            |
+|     +------+     +----------------+     +------+    ! New confidant     | >Quit                                 |
+===================================================================================================================
+| Are you sure you want to quit? Unsaved progress will be lost!           |Social Stats                           |
+|  No                                                                     | Kindness Lv 1 - Considerate           |
+|> Yes                                                                    | [||||||          ] To Next Level: 5   |
+|                                                                         |                                       |
+|                                                                         | Guts Lv 1 - Bold                      |
+|                                                                         | [||||            ] To Next Level: 6   |
+|                                                                         |                                       |
+|                                                                         | Knowledge Lv 2 - Encyclopedic         |
+|                                                                         | [                ] To Next Level: 10  |
+|                                                                         |                                       |
+===================================================================================================================
+[WASD] Move around the map [UP/DOWN] Select from menu [ENTER] Confirm [T] Toggle stat view [R] Redraw screen

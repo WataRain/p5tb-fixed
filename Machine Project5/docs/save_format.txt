@@ -1,0 +1,53 @@
+Location
+Day
+Period
+Yen
+BBB Challenge Lv
+Lent Money
+Confidant Points - SOJIRO
+Confidant Points - RYUJI
+Confidant Points - ANN
+Confidant Points - YUSUKE
+Confidant Points - MAKOTO
+Confidant Points - FUTABA
+Confidant Points - HARU
+Confidant Points - TAE (TAKEMI)
+Confidant Points - SADAYO (KAWAKAMI)
+Confidant Points - SUMIRE
+Social Stat Points - KINDNESS
+Social Stat Points - GUTS
+Social Stat Points - KNOWLEDGE
+Inventory Slot 0 - DVD PLAYER
+Inventory Slot 1 - MUSIC PLAYER
+Inventory Slot 2 - ETIQUETTE
+Inventory Slot 3 - MYSTERY CIV
+Inventory Slot 4 - BRAVERY DOG
+Inventory Slot 5 - GIFT ITEM
+Inventory Slot 6 - BOOST ITEM
+Bought Item Today ? - DVD PLAYER
+Bought Item Today ? - MUSIC PLAYER
+Bought Item Today ? - ETIQUETTE
+Bought Item Today ? - MYSTERY CIV
+Bought Item Today ? - BRAVERY DOG
+Bought Item Today ? - BBB PLUSH
+Bought Item Today ? - DESK CLOCK
+Bought Item Today ? - EUCALYPTUS
+Bought Item Today ? - PERFUME
+Bought Item Today ? - PERSONALIZED PEN
+Bought Item Today ? - HERBAL SUP
+Bought Item Today ? - PORK BOWL
+Bought Item Today ? - CHIKEN BOWL
+Bought Item Today ? - HERB ESS
+Bought Item Today ? - BBB COMBO
+Bought Item Today ? - GREEN TEA
+Gifted Confidant 0?
+Gifted Confidant 1?
+Gifted Confidant 2?
+Gifted Confidant 3?
+Gifted Confidant 4?
+Gifted Confidant 5?
+Gifted Confidant 6?
+Gifted Confidant 7?
+Gifted Confidant 8?
+Gifted Confidant 9?
+Gifted Confidant 10?
